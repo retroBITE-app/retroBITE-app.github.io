@@ -1,0 +1,16 @@
+# retroBITE
+
+> A clean, self-hosted collection manager for retro games. Pair your ROMs with rich metadata and artwork, then serve your library over the local network directly to your devices.
+
+retroBITE (retrobite.app) is free, MIT licensed, self-hosted software that runs in Docker. It is in active development; the Docker image ships with the first public release.
+
+## Docs
+
+
+## Project
+
+- [Activity](https://retrobite.app/activity): Development activity for retroBITE: commits per week and per day over the past year, lines changed and contributors.
+- [Roadmap](https://retrobite.app/roadmap): What's shipped in retroBITE and what's planned next: disc image conversion, transfers and global search are in, with a BIOS archive, housekeeping and the public Docker release still to come.
+- [GitHub](https://github.com/retroBITE-app/retroBITE): Source repository
+- [Discord](https://discord.gg/frgN7y6x5T): Community server
+- [Docker Hub](https://hub.docker.com/u/retrobite): Docker images
