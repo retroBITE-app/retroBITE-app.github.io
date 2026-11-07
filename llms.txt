@@ -1,0 +1,22 @@
+# retroBITE
+
+> A clean, self-hosted collection manager for retro games. Pair your ROMs with rich metadata and artwork, then serve your library over the local network directly to your devices.
+
+retroBITE (retrobite.app) is free, MIT licensed, self-hosted software that runs in Docker. It runs as a Docker Compose stack of three images (retrobite/retrobite, retrobite/share and MariaDB) and is in active development; the Compose file ships with the first public release.
+
+## Docs
+
+- [Introduction](https://retrobite.app/docs/): Introduction to retroBITE, a self-hosted collection manager for retro games: how the project started, what it does and where to begin.
+- [Configuration](https://retrobite.app/docs/getting-started/configuration): Every retroBITE .env setting: shares, paths, database, reverse proxy, transfers, queue workers, ScreenScraper, RetroAchievements and conversion tools.
+- [Installation](https://retrobite.app/docs/getting-started/installation): Install retroBITE with Docker Compose: on Linux, Portainer, Dockhand, Synology, QNAP, Unraid, TrueNAS or Docker Desktop, plus updating and backups.
+- [Accounts](https://retrobite.app/docs/guide/accounts): User accounts in retroBITE: the first-run setup, signing in, adding users and resetting passwords from the command line, and what every account can do.
+- [Conversion](https://retrobite.app/docs/guide/conversion): Convert and compress disc images in retroBITE: CHD, CSO, ZSO, ECM, VCD, RVZ, WBFS and back to ISO or BIN/CUE, with the bundled chdman, maxcso, ecm, cue2pops and nodtool.
+- [Library scanning](https://retrobite.app/docs/guide/library-scanning): How retroBITE scans console folders for ROMs and disc images: folder layout, accepted extensions, multi-disc games, missing files and rescanning.
+
+## Project
+
+- [Activity](https://retrobite.app/activity): Development activity for retroBITE: commits per week and per day over the past year, lines changed and contributors.
+- [Roadmap](https://retrobite.app/roadmap): What's shipped in retroBITE and what's planned next: retroBITE is in public beta with disc image conversion, transfers and global search, and a BIOS archive and housekeeping still to come.
+- [GitHub](https://github.com/retroBITE-app/retroBITE): Source repository
+- [Discord](https://discord.gg/EHJAkvJmpu): Community server
+- [Docker Hub](https://hub.docker.com/u/retrobite): Docker images
